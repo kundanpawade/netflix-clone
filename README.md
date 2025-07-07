@@ -16,14 +16,14 @@ This is a Netflix homepage clone built using only **HTML** and **CSS**. It is a 
 - Clean, organized HTML5 structure
 - CSS Flexbox and Grid used for layout
 
-
+---
 
 ## 🛠️ Technologies Used
 
 - HTML5  
 - CSS3  
 
-
+---
 
 ## 📷 Screenshots
 Here is a preview of the Netflix Clone UI:
