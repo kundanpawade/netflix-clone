@@ -30,5 +30,7 @@ Here is a preview of the Netflix Clone UI:
 ![Netflix Clone Screenshot](./Screenshot1.png)
 ![Netflix Clone Screenshot](./Screenshot2.png)
 
+---
+
 mobile preview :
 ![Netflix Clone Screenshot](./Screenshot3.png)
