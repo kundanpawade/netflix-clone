@@ -1,6 +1,8 @@
 # netflix-clone
 This is a Netflix Clone created using HTML and CSS, designed to replicate the look and feel of the official Netflix homepage. The project focuses purely on the user interface design without any interactivity or backend functionality.
 
+---
+
 # 🎬 Netflix Clone (HTML & CSS)
 
 This is a Netflix homepage clone built using only **HTML** and **CSS**. It is a static frontend design and does not include any dynamic behavior or backend logic.
